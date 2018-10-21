@@ -4,7 +4,7 @@ Practicar comandos de git.
 
 La mejor experiencia en Luna
 
-> Dariana&Alejandro
+> Dariana&Alejandro :+1:
 
 ![Luna](https://hipertextual.com/files/2018/07/Luna-670x410.jpg)
 [Clic aqui - prueba link en Markdown](https://www.netflix.com)
